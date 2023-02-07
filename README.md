@@ -1,12 +1,16 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-## 📫 How to reach me: 
+My name is Hoang Le. I am an B.S. graduated at Ho Chi Minh University of Technology (HCMUT), majoring in Mechatronics. <br>
+<!-- ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoang-le-104277211/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lexuanhoang120/)
+
+##  My projects:  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexuanhoang120&layout=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexuanhoang120&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexuanhoang120&show_icons=true&theme=tokyonight&hide=)
 
 <a href="https://github.com/lexuanhoang120/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -88,3 +92,4 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
+
