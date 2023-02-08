@@ -21,3 +21,8 @@ My name is Hoang Le. I am an B.S. graduated at Ho Chi Minh University of Technol
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=Face_Tracking&theme=radical" />
 </a> 
+
+<a href="https://github.com/lexuanhoang120/Crawl_Lyrics_Category/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=Crawl_Lyrics_Category&theme=radical" />
+</a> 
