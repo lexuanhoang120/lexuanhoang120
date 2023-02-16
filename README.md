@@ -6,7 +6,7 @@ My name is Hoang Le. I am an B.S. graduated at Ho Chi Minh University of Technol
 
 ##  My projects:  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexuanhoang120&layout=moltack)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexuanhoang120&layout=moltack)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
