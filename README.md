@@ -38,7 +38,7 @@ My name is Hoang Le. I am an B.S. graduated at Ho Chi Minh University of Technol
 </a> 
 
 
-<a href="[https://github.com/lexuanhoang120/extracting-data-from-excel-file/](https://github.com/lexuanhoang120/extracting-data-from-excel-file)">
+<a href="[https://github.com/lexuanhoang120/extracting-data-from-excel-file/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=extracting-data-from-excel-file&theme=radical" />
 </a> 
