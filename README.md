@@ -32,11 +32,21 @@ My name is Hoang Le. I am an B.S. graduated at Ho Chi Minh University of Technol
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=Web_Face_Recognition&theme=radical" />
 </a> 
 
-<a href="[https://github.com/lexuanhoang120/Web_Face_Recognition/](https://github.com/lexuanhoang120/Thesis-Design-a-system-classifying-chicken-gender)">
+<a href="[https://github.com/lexuanhoang120/Thesis-Design-a-system-classifying-chicken-gender/](https://github.com/lexuanhoang120/Thesis-Design-a-system-classifying-chicken-gender)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=Thesis-Design-a-system-classifying-chicken-gender&theme=radical" />
 </a> 
 
+
+<a href="[https://github.com/lexuanhoang120/extracting-data-from-excel-file/](https://github.com/lexuanhoang120/extracting-data-from-excel-file)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=extracting-data-from-excel-file&theme=radical" />
+</a> 
+
+<a href="[https://github.com/lexuanhoang120/exporting-timekeeping-table/](https://github.com/lexuanhoang120/exporting-timekeeping-table)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lexuanhoang120&repo=exporting-timekeeping-table&theme=radical" />
+</a> 
 
 
 
