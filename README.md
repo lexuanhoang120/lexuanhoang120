@@ -61,9 +61,11 @@ Before graduate research, I worked as a data scientist and AI engineer on produc
 
 **AI / ML:** Vision-language models, GUI grounding, computer-use agents, GraphRAG, knowledge-graph QA, computer vision, object detection, object tracking, face recognition, deep learning, CNNs, classification, time-series forecasting.
 
-**Programming:** Python, PyTorch, OpenCV, FastAPI, Pandas, NumPy, PySpark, C/C++.
+**Programming:** Python, PyTorch, OpenCV, FastAPI, Pandas, NumPy, PySpark, C/C++, MATLAB.
 
-**Tools:** Git, Linux, Jupyter Notebook, Neo4j.
+**Tools:** Git, Linux, Jupyter Notebook, Neo4j, Docker.
+
+<!-- **Application:** Office, SolidWord, AutoCAD. -->
 
 **Languages:** Vietnamese native, English fluent, Korean basic.
 
@@ -71,7 +73,7 @@ Before graduate research, I worked as a data scientist and AI engineer on produc
 
 - **M.S. in Artificial Intelligence and Robotics**, Sejong University, Seoul, Korea.
 - **Double Degree M.S. in Convergence Engineering for Intelligent Drone**, Sejong University.
-- **B.E. in Mechatronics Engineering**, VNU - Ho Chi Minh University of Technology, Vietnam.
+- **B.E. in Mechatronics Engineering (PFIEV)**, VNU - Ho Chi Minh University of Technology, Vietnam.
 
 ## Contact
 
